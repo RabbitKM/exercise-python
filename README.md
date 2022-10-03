@@ -1,2 +1,2 @@
 # Exercise (Python)
-include ML, DL, web crawler, ...
+> Python相關應用練習紀錄
